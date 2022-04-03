@@ -3,7 +3,7 @@
 
 <p>
   👋&nbsp; Hi there! I'm interested in CV and AI</b> using OpenCV and Tensorflow. 🚀<br/>
-  Sometimes I develop cross-platforms like ReactNative or Flutter, but I prefer native. 💖<br/><br/>
+  My main study is PattenRecognize and CNN. 💖<br/><br/>
   I'm in Sangmyung University. ⛰<br/>
-  I hope to develop every beautiful things. ✨ <br/><br/>
+  I hope to develop that for human healthy. ✨ <br/><br/>
 </p>
